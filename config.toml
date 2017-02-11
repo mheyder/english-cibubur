@@ -1,4 +1,4 @@
-baseurl = "https://mheyder.github.io/english-cibubur"
+baseurl = "https://mheyder.github.io/english-cibubur/"
 title = "English Cibubur"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
