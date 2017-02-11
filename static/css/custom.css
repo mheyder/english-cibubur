@@ -24,3 +24,8 @@
 .testimonials .item .testimonial .text {
   color: #666666;
 }
+
+.testimonials .item .testimonial .name-picture {
+  width: inherit;
+  text-align: left;
+}
