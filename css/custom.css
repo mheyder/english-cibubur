@@ -24,3 +24,16 @@
 .testimonials .item .testimonial .text {
   color: #666666;
 }
+
+.testimonials .item .testimonial .name-picture {
+  width: inherit;
+  text-align: left;
+}
+
+#heading-breadcrumbs {
+  background: url('../img/texture-turquoise.png') center center repeat;
+}
+
+.bar.background-pentagon {
+  background: url('../img/texture-turquoise.png') center center repeat;
+}
