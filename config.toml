@@ -1,3 +1,74 @@
+baseurl = "https://mheyder.github.io/english-cibubur"
+title = "English Cibubur"
+theme = "hugo-universal-theme"
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+googleAnalytics = ""
+
+[params]
+    style = "default"
+
+    about_photo = "img/teacher.png"
+    about_us = """<p>Saya adalah seorang instuktur ESL dengan pengalaman lebih dari 12 tahun mengajar di sekolah (tingkat usia dini dan tingkat atas) dan memberikan English in-house training di berbagai perusahaan teknologi dan kementerian.</p>
+        <p>Tumbuh dan besar di Sydney, Australia, saya sudah menjadi bilingual secara alami.</p>
+        <p>Saya mempunyai background pendidikan sarjana perikanan dari Insitut Pertanian Bogor dan sangat menyukai alam.</p>
+        """
+    copyright = "Copyright (c) 2016 - 2017, EnglishCibubur; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    address = """<p><strong>Kota Wisata</strong>
+        <br>Telp, wa: 0811899744
+        <br>Email: arofanti@gmail.com
+        <br>LinkedIn: linkedin.com/in/dini-arofanti-33a39324
+      </p>
+      """
+
+[[params.menu]]
+    name = "Home"
+    url  = "#carousel"
+    weight = 1
+
+[[params.menu]]
+    name = "Keunggulan"
+    url  = "#why"
+    weight = 2
+
+[[params.menu]]
+    name = "Program"
+    url  = "#programs"
+    weight = 3
+
+[[params.menu]]
+    name = "Testimoni"
+    url  = "#testimonials"
+    weight = 4
+
+[[params.menu]]
+    name = "Kontak"
+    url  = "#contact"
+    weight = 4
+
+[params.carousel]
+    enable = true
+
+[params.features]
+    enable = true
+    title = "Keunggulan English Cibubur"
+
+[params.testimonials]
+    enable = true
+    title = "Testimonials"
+    subtitle = ""
+
+[params.quote]
+    enable = true
+    icon = "fa fa-quote-left"
+    title = "ONE LANGUAGE SETS YOU IN A CORRIDOR FOR LIFE.<br> TWO LANGUAGES OPEN EVERY DOOR ALONG THE WAY."
+    subtitle = " ~ Frank Smith ~ "
+
+[params.recent_posts]
+    enable = true
+    title = "Program"
+    subtitle = "Kami menyediakan 3 pilihan program khusus yang disesuaikan untuk kebutuhan Anda dengan tujuan berbeda. Semua program kami dilaksanakan di rumah atau tempat bekerja Anda, dengan jadwal yang fleksibel. Dalam memilih program yang tepat, Anda juga dapat berkonsultasi langsung dengan kami."

@@ -1,0 +1,26 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+#copyright {
+  padding: 15px 0;
+}
+
+.box-simple p {
+  color: #777;
+}
+
+.box-image-text .content p {
+  color: #666666;
+}
+
+.testimonials .item .testimonial .text {
+  color: #666666;
+}
