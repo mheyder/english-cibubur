@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on English Cibubur</title>
+    <link>https://mheyder.github.io/english-cibubur/blog/index.xml</link>
+    <description>Recent content in Blogs on English Cibubur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2017, EnglishCibubur; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 17 Nov 2015 13:47:08 +0200</lastBuildDate>
+    <atom:link href="https://mheyder.github.io/english-cibubur/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Business English</title>
+      <link>https://mheyder.github.io/english-cibubur/blog/business-english/</link>
+      <pubDate>Tue, 17 Nov 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://mheyder.github.io/english-cibubur/blog/business-english/</guid>
+      <description>&lt;p&gt;Program dan penyusunan kurikulum yang dirancang khusus sesuai kebutuhan perusahaan.
+Program juga mencakup bahasa Inggris umum atau general English yang digunakan untuk kehidupan sehari-hari.
+Mempersiapkan dan meningkatkan SDM perusahaan untuk “go global”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conversation</title>
+      <link>https://mheyder.github.io/english-cibubur/blog/conversation/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://mheyder.github.io/english-cibubur/blog/conversation/</guid>
+      <description>&lt;p&gt;Program Conversation tepat buat Anda yang ingin berlatih dan lebih mahir dalam berkomunikasi.
+Anda dapat memperluas kosa kata, memperbaiki pengucapan, dan lebih percaya diri dalam berkomunikasi secara lisan dalam bahasa Inggris.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Private Tutoring</title>
+      <link>https://mheyder.github.io/english-cibubur/blog/private-tutoring/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://mheyder.github.io/english-cibubur/blog/private-tutoring/</guid>
+      <description>&lt;p&gt;Anda ingin kelas yang lebih eksklusif?
+Kami menyediakan program les privat untuk Anda yang mempunyai kebutuhan lebih spesifik, dari tingkat SD hingga mahasiswa.
+Tingkatkan kemampuan berbahasa Inggris Anda dengan cepat melalui program one-to-one kami.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
