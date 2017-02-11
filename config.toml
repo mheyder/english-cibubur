@@ -27,7 +27,7 @@ googleAnalytics = ""
 
 [[params.menu]]
     name = "Home"
-    url  = "#carousel"
+    url  = "#all"
     weight = 1
 
 [[params.menu]]
@@ -55,11 +55,11 @@ googleAnalytics = ""
 
 [params.features]
     enable = true
-    title = "Keunggulan English Cibubur"
+    title = "Keunggulan"
 
 [params.testimonials]
     enable = true
-    title = "Testimonials"
+    title = "Testimoni"
     subtitle = ""
 
 [params.quote]
