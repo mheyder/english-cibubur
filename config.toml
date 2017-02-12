@@ -8,9 +8,9 @@ googleAnalytics = ""
     style = "default"
 
     about_photo = "img/teacher.png"
-    about_us = """<p>Saya adalah seorang instuktur ESL dengan pengalaman lebih dari 12 tahun mengajar di sekolah (tingkat usia dini dan tingkat atas) dan memberikan English in-house training di berbagai perusahaan teknologi dan kementerian.</p>
-        <p>Tumbuh dan besar di Sydney, Australia, saya sudah menjadi bilingual secara alami.</p>
-        <p>Saya mempunyai background pendidikan sarjana perikanan dari Insitut Pertanian Bogor dan sangat menyukai alam.</p>
+    about_us = """
+        <p>Pengalaman lebih dari 12 tahun mengajar di sekolah (tingkat usia dini dan tingkat atas) dan dalam memberikan English in-house training di berbagai perusahaan teknologi dan kementerian. 
+        <br>Tumbuh dan besar di Sydney, Australia, bilingual secara natural. Pencinta dan pengagum laut dengan segala isinya.</p>
         """
     copyright = "Copyright (c) 2016 - 2017, EnglishCibubur; all rights reserved."
 
